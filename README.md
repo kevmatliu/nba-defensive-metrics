@@ -9,3 +9,8 @@ Features:
 - AVG_DREB_DISTANCE
 - WINGSPAN (Did not end up incorporating)
 - Help Frequency (Where to find?)
+
+
+TODO:
+- Tweak the model features (no need to incorporate the ratio maybe?)
+- More features? 
